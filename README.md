@@ -1,1 +1,1 @@
-# magazine-luiza
+# magazine
